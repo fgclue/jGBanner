@@ -1,6 +1,6 @@
-<center>
-<img src="/logos/svg/text.svg" width="620" height=auto>
-</center>
+<p align=center>
+<img src="/logos/svg/text.svg" width="200" height=auto>
+</p>
 
 [![fgclue - jGBanner](https://img.shields.io/static/v1?label=fgclue&message=jGBanner&color=blue&logo=github)](https://github.com/fgclue/jGBanner "Go to GitHub repo")
 [![stars - jGBanner](https://img.shields.io/github/stars/fgclue/jGBanner?style=social)](https://github.com/fgclue/jGBanner)
