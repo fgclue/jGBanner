@@ -1,0 +1,63 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@900&display=swap');
+@import url(/strucw/fonts/Antipasto/AntipastoPro-ExtraBold_trial.ttf);
+/* body */
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.logo {
+    font-family: 'Antipasto Pro Extrabold', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.logoTextCoral {
+    font-family: 'Antipasto Pro Extrabold', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: coral;
+}
+
+.logoText {
+    font-family: 'Antipasto Pro Extrabold', sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+.logoBig {
+    font-family: 'Antipasto Pro Extrabold', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color: coral;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
