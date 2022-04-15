@@ -1,0 +1,19 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@900&display=swap');
+@import url(/strucw/fonts/Antipasto/AntipastoPro-ExtraBold_trial.ttf);
+/* body */
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url("/strucw/images/tgb/flower2.jpg");
+  }
+  
+#rcorners1 {
+  border-radius: 25px;
+  background-position: left top;
+  background-repeat: repeat;
+  opacity: 0.5;
+  padding: 20px; 
+  width: 477px;
+  height: 600px;  
+  background-color: gray;
+}
