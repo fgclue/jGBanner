@@ -7,6 +7,10 @@ body {
     background-image: url("/strucw/images/tgb/flower2.jpg");
   }
   
+.centerfile {
+  text-align: center;
+}
+
 #rcorners1 {
   border-radius: 25px;
   background-position: left top;
@@ -16,4 +20,31 @@ body {
   width: 477px;
   height: 600px;  
   background-color: gray;
+}
+
+.logo {
+  font-family: 'Antipasto Pro Extrabold', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.logoTextCoral {
+  font-family: 'Antipasto Pro Extrabold', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: coral;
+}
+
+.logoText {
+  font-family: 'Antipasto Pro Extrabold', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+.logoBigCenter {
+  font-family: 'Antipasto Pro Extrabold', sans-serif;
+  font-size: 100px;
+  color: coral;
 }
